@@ -4,4 +4,5 @@ Latex template to generate an iphone/iPad (or any mobile/tablet) holder on cardb
   * Follow the instructions inside PDF 
   
 
+![alt text](https://github.com/manuparra/iphone-holder-template-latex/img/holder_01.png "Template Latex")
 
